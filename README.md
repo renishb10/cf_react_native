@@ -1,1 +1,1 @@
-# cf_react_native
+# Demo Chat App (React Native)

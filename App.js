@@ -8,7 +8,6 @@ import Chat from './components/Chat';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-
 // Create the navigator
 const Stack = createStackNavigator();
 
